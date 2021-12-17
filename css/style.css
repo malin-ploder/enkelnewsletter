@@ -1,0 +1,19 @@
+@import url("components/container.css");
+@import url("components/avatar.css");
+@import url("components/btn-green.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/card-white.css");
+@import url('https://fonts.googleapis.com/css2?family=PT+Serif:ital@0;1&family=Playfair+Display:wght@400;500;600;800&display=swap');
+
+
+body {
+	font-family: 'PT Serif', serif;
+	font-size:  16px;
+	margin: 0px;
+}
+h1, h2, h3 {
+	font-family: 'Playfair Display', serif;
+	font-weight:  bold;
+}
+
